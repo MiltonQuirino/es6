@@ -23,3 +23,5 @@ class Message {
     return new Message();
   }
 }
+
+module.exports = Message;
